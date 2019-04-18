@@ -10,7 +10,7 @@ to determine the smallest square possible.
 A Tetriminos is a geometric figure formed of 4 blockes.
 
 to know more about the subject you can read the instruction in the
-[PDF](https://github.com/tcollard/fillit/master/PDF/fillit.fr.pdf)
+[PDF](https://github.com/tcollard/fillit/tree/master/PDF/fillit.fr.pdf)
 
 ## Library used
 
